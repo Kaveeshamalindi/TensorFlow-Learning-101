@@ -1,4 +1,4 @@
-# TensorFlow Learning 101 🧠
+# 🧠 TensorFlow Learning 101 
 
 A beginner-friendly repository for learning **TensorFlow** and basic machine learning concepts using **Google Colab**.
 
